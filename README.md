@@ -1,1 +1,0 @@
-# NestQuant-tournament
